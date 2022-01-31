@@ -44,7 +44,7 @@ public class Asisten {
             System.out.println("Nilai IP Komulatif = " + ipk);
             System.out.println("Selamat, Anda Layak Untuk Menjadi Asisten");
             System.out.println("---------------------------------------------------");
-            System.out.println("--------PROGRAM ASISTEN BY YUDHA DEVELOPER---------");
+            System.out.println("--------PROGRAM ASISTEN BY SKUY DEVELOPER---------");
             System.out.println("---------------------------------------------------");
         }
         else{
@@ -56,7 +56,7 @@ public class Asisten {
             System.out.println("Nilai IP Komulatif = " + ipk);
             System.out.println("Maaf, Anda Tidak Layak Untuk Menjadi Asisten");
             System.out.println("---------------------------------------------------");
-            System.out.println("--------PROGRAM ASISTEN BY YUDHA DEVELOPER---------");
+            System.out.println("--------PROGRAM ASISTEN BY SKUY DEVELOPER---------");
             System.out.println("---------------------------------------------------");
         }
     }
